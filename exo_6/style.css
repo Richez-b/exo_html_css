@@ -1,0 +1,18 @@
+h1 {
+    color:red;
+}
+img {
+    width :300px;
+}
+a {
+    color:yellowgreen;
+}
+#contenu {
+    background-color: lightgray;
+}
+#contenu + div{
+    text-align: right;
+}
+#contenu + div p {
+    font-size: 2em;
+}
